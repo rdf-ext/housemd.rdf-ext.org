@@ -1,0 +1,4 @@
+{
+  "baseConfig": "cwd:config.json",
+  "datasetBaseUrl": "https://housemd.rdf-ext.org/"
+}

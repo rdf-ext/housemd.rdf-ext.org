@@ -1,0 +1,14 @@
+{
+  "baseConfig": "trifid:config-fetch.json",
+  "handler": {
+    "root": {
+      "options": {
+        "url": "file:./housemd.nq",
+        "contentType": "application/n-quads"
+      }
+    }
+  },
+  "staticViews": {
+    "/": null
+  }
+}

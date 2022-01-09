@@ -1,0 +1,29 @@
+{
+  "name": "housemd.rdf-ext.org",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Trifid instance for the House, M.D. dataset",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rdf-ext/housemd.rdf-ext.org.git"
+  },
+  "keywords": [
+    "house",
+    "housemd",
+    "rdf",
+    "rdfjs",
+    "rdf-ext",
+    "trifid"
+  ],
+  "author": "Thomas Bergwinkl <bergi@axolotlfarm.org> (https://www.bergnet.org/people/bergi/card#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdf-ext/housemd.rdf-ext.org/issues"
+  },
+  "homepage": "https://github.com/rdf-ext/housemd.rdf-ext.org",
+  "dependencies": {
+    "housemd": "^0.1.0"
+  }
+}
