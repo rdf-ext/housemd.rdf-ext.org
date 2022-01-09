@@ -1,6 +1,6 @@
 {
   "name": "housemd.rdf-ext.org",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "Trifid instance for the House, M.D. dataset",
   "main": "index.js",
